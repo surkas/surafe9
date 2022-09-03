@@ -1,7 +1,7 @@
 - 👋 Hi, I’m surafel
 - 👀 I’m interested in coding, and playing soccer
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on any javascript projects that will be open for public for free. 
+- 💞️ I’m looking to collaborate on any javascript projects. 
 - 📫 How to reach me : picolo.sur@gmail.com 
 
 <!---
