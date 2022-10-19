@@ -1,6 +1,6 @@
 - 👋 Hi, I’m surafel
-- 👀 I’m interested in coding, and playing soccer
-- 💞️ I’m looking to collaborate on any javascript projects. 
+- 👀 I’m interested in coding, and learning cleaver ways of solving everyday problems
+- 💞️ I’m looking to collaborate on projects, with or without pay!
 - 📫 How to reach me : picolo.sur@gmail.com 
 
 <!---
